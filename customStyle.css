@@ -1,0 +1,67 @@
+.carousel-caption {
+  top: 40%;
+}
+.mainImg {
+  /*do not overflow the main image */
+  max-height: calc(100vh);
+}
+
+.leftBar {
+  background-color: black;
+}
+
+.icon-center {
+  text-align: center;
+  position: relative;
+}
+
+#iconIn {
+  position: absolute;
+  top: 20%;
+  left: 30%;
+}
+
+#iconG {
+  position: absolute;
+  top: 40%;
+  left: 30%;
+}
+
+#iconMail {
+  position: absolute;
+  top: 60%;
+  left: 30%;
+  background-color: rgba(63, 61, 150, 0.692);
+}
+
+#contact {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: 5%;
+  top: 5%;
+}
+
+.card-center {
+  margin: 0 auto;
+  width: 18rem;
+  margin-bottom: 200px;
+}
+.card-multi {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.title {
+  color: rgb(25, 0, 255);
+  margin-top: 100px;
+  padding-left: 100px;
+}
+
+.mainButtons {
+  margin: 50px;
+}
+
+.cardPages {
+  background-color: black;
+  height: 100vh;
+}
